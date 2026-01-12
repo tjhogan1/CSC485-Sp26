@@ -19,4 +19,4 @@ Just when things seemed straightforward, new evidence complicated the case.
 Decisions must be made about which clues to follow and which to ignore, however the detective on the case was not helpful to the investigation.
 
 ## The Outcome
-The mystery is far from resolved. What will happen next?
+The mystery is close to being resolved, but there is one more big piece needed. What will happen next?

@@ -1,7 +1,8 @@
 # The Collegiate Chronicles
 
 ## The Lecture
-Professor Chou begins the semester with an ambitious plan for the class.
+Professor X begins the semester with going over the syllabus for the class.
+
 
 ## The Students
 Each student has unique opinions and feelings about the assignments.
@@ -20,4 +21,4 @@ A faculty or student conference throws an absolute chucker in Mcpheezys, boostin
 Papers, blog posts, or posters emerge with strange results, accusing the students of plagiarism.
 
 ## The Semester’s End
-Grades, feedback, and reflections leave everyone questioning what was really learned. 
+Grades, feedback, and reflections leave everyone questioning what was really learned

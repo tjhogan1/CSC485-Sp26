@@ -1,9 +1,9 @@
 File to track progress 
 
-[ ] continue to find data for project 
-[X] form group 
-[X] Make ToDo file and upload it to the class repository
-[ ] Start working on the skeleton of the project 
+- [ ] continue to find data for project 
+- [X] form group 
+- [X] Make ToDo file and upload it to the class repository
+- [ ] Start working on the skeleton of the project 
 
 ## Data
 - [ ] Pull daily prices for VOO, QQQ, ARKK, MAGS

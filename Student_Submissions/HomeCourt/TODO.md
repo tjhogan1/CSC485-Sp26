@@ -1,6 +1,6 @@
 OVERALL TODO
-1. Gather Data [ ] 
-3. Import Data [ ]
+1. Gather Data [X] 
+3. Import Data [X]
    - NBA games data
    - Box scores
    Stadium locations
@@ -42,3 +42,15 @@ FRIDAY
 -    get rid of all ID numbers
 -    get rid of game type column and clean the columns
 -    rename columns to match the stadiums file
+COMPLETED ALL and started creating analysis equations and ideas
+
+NEXT WEEK (2/2)
+- combine stadiums and games data sets into 1 big data set
+- add columns
+     - flag back to back games
+     - calculate distance traveled
+     - take into account time zones
+     - prior win/loss streak
+     - attendance brackets
+     - clearer column showing if home team won or not (0/1 maybe)
+- can we break up the data by season so it's not so long

@@ -8,7 +8,7 @@ OVERALL TODO
    - keep only NBA games
    - remove preseason, duplicates, and missing outcomes
 7. Standardize all variables [X]
-8. Merge Datasets [ ]
+8. Merge Datasets [X]
    - merge games plus attendance by gameID/date
    - merge stadium locations by home/away team
 9. Create key variables [ ]
@@ -46,15 +46,13 @@ FRIDAY
 COMPLETED ALL and started creating analysis equations and ideas
 
 NEXT WEEK (2/2)
-- combine stadiums and games data sets into 1 big data set
+- combine stadiums and games data sets into 1 big data set [X]
 - add columns
-     - flag back to back games
-     - calculate distance traveled
+     - flag back to back games [X]
+     - calculate distance traveled 
      - take into account time zones
      - prior win/loss streak
      - attendance brackets
-     - clearer column showing if home team won or not (0/1 maybe)
+     - clearer column showing if home team won or not (0/1 maybe) [X]
 - can we break up the data by season so it's not so long
-
-
-- fix LA Clippers and Lakers
+- fix LA Clippers and Lakers [X]
